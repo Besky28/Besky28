@@ -1,1 +1,1 @@
-I'm an aspiring software engineer, passionate about solving problems.
+I'm an aspiring Full Stack software engineer, passionate about solving problems.
